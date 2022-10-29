@@ -1,0 +1,30 @@
+/home/kali/RiderProjects/ConsoleApp/ConsoleApp/bin/Debug/net6.0/ConsoleApp
+/home/kali/RiderProjects/ConsoleApp/ConsoleApp/bin/Debug/net6.0/ConsoleApp.deps.json
+/home/kali/RiderProjects/ConsoleApp/ConsoleApp/bin/Debug/net6.0/ConsoleApp.runtimeconfig.json
+/home/kali/RiderProjects/ConsoleApp/ConsoleApp/bin/Debug/net6.0/ConsoleApp.dll
+/home/kali/RiderProjects/ConsoleApp/ConsoleApp/bin/Debug/net6.0/ConsoleApp.pdb
+/home/kali/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net6.0/ConsoleApp.csproj.AssemblyReference.cache
+/home/kali/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net6.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net6.0/ConsoleApp.AssemblyInfoInputs.cache
+/home/kali/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net6.0/ConsoleApp.AssemblyInfo.cs
+/home/kali/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net6.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/home/kali/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net6.0/ConsoleApp.dll
+/home/kali/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net6.0/refint/ConsoleApp.dll
+/home/kali/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net6.0/ConsoleApp.pdb
+/home/kali/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net6.0/ConsoleApp.genruntimeconfig.cache
+/home/kali/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net6.0/ref/ConsoleApp.dll
+/home/kali/RiderProjects/prime numbers/ConsoleApp/bin/Debug/net6.0/ConsoleApp
+/home/kali/RiderProjects/prime numbers/ConsoleApp/bin/Debug/net6.0/ConsoleApp.deps.json
+/home/kali/RiderProjects/prime numbers/ConsoleApp/bin/Debug/net6.0/ConsoleApp.runtimeconfig.json
+/home/kali/RiderProjects/prime numbers/ConsoleApp/bin/Debug/net6.0/ConsoleApp.dll
+/home/kali/RiderProjects/prime numbers/ConsoleApp/bin/Debug/net6.0/ConsoleApp.pdb
+/home/kali/RiderProjects/prime numbers/ConsoleApp/obj/Debug/net6.0/ConsoleApp.csproj.AssemblyReference.cache
+/home/kali/RiderProjects/prime numbers/ConsoleApp/obj/Debug/net6.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/RiderProjects/prime numbers/ConsoleApp/obj/Debug/net6.0/ConsoleApp.AssemblyInfoInputs.cache
+/home/kali/RiderProjects/prime numbers/ConsoleApp/obj/Debug/net6.0/ConsoleApp.AssemblyInfo.cs
+/home/kali/RiderProjects/prime numbers/ConsoleApp/obj/Debug/net6.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/home/kali/RiderProjects/prime numbers/ConsoleApp/obj/Debug/net6.0/ConsoleApp.dll
+/home/kali/RiderProjects/prime numbers/ConsoleApp/obj/Debug/net6.0/refint/ConsoleApp.dll
+/home/kali/RiderProjects/prime numbers/ConsoleApp/obj/Debug/net6.0/ConsoleApp.pdb
+/home/kali/RiderProjects/prime numbers/ConsoleApp/obj/Debug/net6.0/ConsoleApp.genruntimeconfig.cache
+/home/kali/RiderProjects/prime numbers/ConsoleApp/obj/Debug/net6.0/ref/ConsoleApp.dll
