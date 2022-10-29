@@ -6,6 +6,6 @@ et Gérer la validité des données saisie par l'utilisateur.
 Ecrire un programme en C# pour déterminer si un entier saisie par l'utilisateur est un nombre premier ou non.
 Gérer la validité des données saisie par l'utilisateur.
 
-####the entry file : insert into a sorted array/ConsoleApp3/Program.cs
+#### the entry file : insert into a sorted array/ConsoleApp3/Program.cs
 
-####the entry file : prime numbers/ConsoleApp/Program.cs
+#### the entry file : prime numbers/ConsoleApp/Program.cs
