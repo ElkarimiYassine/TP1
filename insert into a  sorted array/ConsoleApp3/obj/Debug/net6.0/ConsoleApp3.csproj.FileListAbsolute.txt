@@ -1,0 +1,30 @@
+/home/kali/RiderProjects/ConsoleApp3/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3
+/home/kali/RiderProjects/ConsoleApp3/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3.deps.json
+/home/kali/RiderProjects/ConsoleApp3/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3.runtimeconfig.json
+/home/kali/RiderProjects/ConsoleApp3/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3.dll
+/home/kali/RiderProjects/ConsoleApp3/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3.pdb
+/home/kali/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.csproj.AssemblyReference.cache
+/home/kali/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.AssemblyInfoInputs.cache
+/home/kali/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.AssemblyInfo.cs
+/home/kali/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.csproj.CoreCompileInputs.cache
+/home/kali/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.dll
+/home/kali/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/refint/ConsoleApp3.dll
+/home/kali/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.pdb
+/home/kali/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.genruntimeconfig.cache
+/home/kali/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net6.0/ref/ConsoleApp3.dll
+/home/kali/RiderProjects/insert into a  sorted array/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3
+/home/kali/RiderProjects/insert into a  sorted array/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3.deps.json
+/home/kali/RiderProjects/insert into a  sorted array/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3.runtimeconfig.json
+/home/kali/RiderProjects/insert into a  sorted array/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3.dll
+/home/kali/RiderProjects/insert into a  sorted array/ConsoleApp3/bin/Debug/net6.0/ConsoleApp3.pdb
+/home/kali/RiderProjects/insert into a  sorted array/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.csproj.AssemblyReference.cache
+/home/kali/RiderProjects/insert into a  sorted array/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/RiderProjects/insert into a  sorted array/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.AssemblyInfoInputs.cache
+/home/kali/RiderProjects/insert into a  sorted array/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.AssemblyInfo.cs
+/home/kali/RiderProjects/insert into a  sorted array/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.csproj.CoreCompileInputs.cache
+/home/kali/RiderProjects/insert into a  sorted array/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.dll
+/home/kali/RiderProjects/insert into a  sorted array/ConsoleApp3/obj/Debug/net6.0/refint/ConsoleApp3.dll
+/home/kali/RiderProjects/insert into a  sorted array/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.pdb
+/home/kali/RiderProjects/insert into a  sorted array/ConsoleApp3/obj/Debug/net6.0/ConsoleApp3.genruntimeconfig.cache
+/home/kali/RiderProjects/insert into a  sorted array/ConsoleApp3/obj/Debug/net6.0/ref/ConsoleApp3.dll
